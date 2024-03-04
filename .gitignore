@@ -1,0 +1,13 @@
+.DS_Store
+.vscode
+
+node_modules
+/.openzeppelin
+
+/cache
+/artifacts
+/deploys
+/docs
+
+.env
+.npmrc
