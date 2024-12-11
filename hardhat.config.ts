@@ -43,13 +43,16 @@ export default {
       },
     },
   },
-  defaultNetwork: 'manta',
+  defaultNetwork: 'mainnet',
   networks: {
     mainnet: {
       url: "https://rpc.ankr.com/eth",
     },
     arbitrum: {
       url: "https://1rpc.io/arb",
+    },
+    merlin: {
+      url: "https://rpc.merlinchain.io",
     },
     manta: {
       url: "https://pacific-rpc.manta.network/http",
